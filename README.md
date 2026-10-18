@@ -202,6 +202,7 @@ Ships with **Banking** and **E-commerce** reference apps, automated test suites,
 ## 🛠️ Tech Stack
 
 <div align="center">
+
 | | |
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117) ![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117) ![GDScript](https://img.shields.io/badge/GDScript-181717?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=0d1117) ![SQL](https://img.shields.io/badge/SQL-181717?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117) ![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117) ![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117) |
