@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C5CFF&center=true&vCenter=true&width=860&lines=Vairaj+Malhotra;Computer+Science+Engineering+Student+%40+VIT+Vellore;Multi-Agent+Simulation+%C2%B7+Deep+Learning+%C2%B7+Game+Dev;Learning+in+public%2C+one+commit+at+a+time" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C5CFF&center=true&vCenter=true&width=860&lines=Vairaj+Malhotra;Deep+Learning+%2B+Simulation+%2B+Developer+Tools;Learning+by+vibecoding%2C+one+commit+at+a+time" alt="Typing intro" />
 
 <p>
   <img src="https://img.shields.io/badge/B.Tech-VIT%20Vellore-7C5CFF?style=for-the-badge" alt="B.Tech at VIT Vellore" />
-  <img src="https://img.shields.io/badge/Focus-ML%20%2B%20Simulation%20%2B%20Full--Stack-181717?style=for-the-badge" alt="Focus: ML, simulation and full-stack" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-2ea44f?style=for-the-badge" alt="Always learning" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20ML-181717?style=for-the-badge" alt="Focus: Full-Stack and ML" />
+  <img src="https://img.shields.io/badge/Status-Always%20Trying-2ea44f?style=for-the-badge" alt="Always trying" />
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Fabastic&label=Profile+views&color=7C5CFF&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -15,9 +16,9 @@
 
 ## 👋 About Me
 
-I'm a B.Tech student at **VIT Vellore** exploring software engineering. I like building things where **many simple agents produce surprising behaviour**: multi-agent simulations, learning agents, and the experiments and tooling around them. I also build full-stack apps, games, and **deep learning for image restoration**. I'm still firmly in the learning phase and figuring things out as I go.
+I'm a B.Tech student at **VIT Vellore** exploring AI and ML. I like building things where **many simple agents produce surprising behaviour**: multi-agent simulations, learning agents, and the experiments and tooling around them. I also build full-stack apps, games, and **deep learning for image restoration**. I'm still firmly in the learning phase and figuring things out as I go.
 
-My process is simple: **read the docs → break things → fix them → repeat** until it works.
+My process is simple: **read the docs → break things → ask claude → fix them → repeat** until it works.
 
 Right now I'm focused on:
 
@@ -230,7 +231,7 @@ Ships with **Banking** and **E-commerce** reference apps, automated test suites,
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-ML%20%2B%20Simulation%20%2B%20Full--Stack-181717?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%2B%20ML-181717?style=flat-square)
 
 </div>
 
