@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Status-Always%20Trying-2ea44f?style=for-the-badge" alt="Always trying" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Fabastic&label=Profile+views&color=7C5CFF&style=flat-square" alt="Profile views" />
-
 </div>
 
 ---
