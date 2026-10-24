@@ -244,7 +244,7 @@ Ships with **Banking** and **E-commerce** reference apps, automated test suites,
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect..
 
 I'm always happy to talk code, swap project ideas, or collaborate on something new.
 
